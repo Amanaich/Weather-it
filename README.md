@@ -4,10 +4,9 @@ A live weather web app with geolocation, animated weather effects on HTML5 Canva
 
 <!-- Add a screenshot or GIF here — this is the single most important thing in a project README.
      Put an image in the repo (e.g. /screenshot.png) and link it: -->
-![Weather It Screenshot](screenshot.png)
+![Weather It Screenshot](<img width="1908" height="916" alt="Screenshot 2026-08-02 030841" src="https://github.com/user-attachments/assets/c14b54ae-7a4e-475c-b5d6-c355e06e530e" />
+)
 
-<!-- If you have a live version, add it here: -->
-🔗 **Live Demo:** [add your live link]
 
 ---
 
@@ -69,14 +68,7 @@ Then open `http://localhost:8080`.
 
 ---
 
-## 📸 Screenshots
 
-<!-- Add 2–3 images: normal view, rain/snow animation, dark mode -->
-| Light Mode | Dark Mode | Rain Effect |
-|---|---|---|
-| ![light](light.png) | ![dark](dark.png) | ![rain](rain.png) |
-
----
 
 ## 🧠 What I Learned
 
